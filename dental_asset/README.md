@@ -2,6 +2,18 @@
 
 This is a procedural Blender asset built from the reference shown in the conversation. The mesh and delivery checks pass. **The reference match remains partial:** the gingiva and crown silhouettes are more regular, and the white reflections less intricate, than the reference. The PNG is the actual Cycles render of the delivered scene, with no painted-over geometry or generated-image substitution.
 
+## One-file Blender workflow
+
+Use **`oral_cavity_3D_standalone.py`** if you want one script to paste into Blender. In **Blender 4.3 or newer**, open **Scripting → Text Editor → New**, paste the entire script, then click **Run Script** (Alt+P while the pointer is over the editor). Alternatively, open the `.py` file directly in the Text Editor and run it.
+
+The script includes the gum builder, final configuration and procedural texture generation. It needs no companion files, Pillow, downloads or pip installation; NumPy is included with Blender. It creates a new scene, preserving the existing scene, and generates the same iteration-15 model, packed textures, materials, 85 mm camera and three lights. Each run creates another scene; Blender may suffix object names when identical names already exist.
+
+Press **Numpad 0** over the 3D View to see the camera and **F12** to render. Save the scene normally. To export GLB, use **File → Export → glTF 2.0**, choose **glTF Binary**, and enable **Selected Objects** and **Custom Properties**; the generated meshes are selected after the script runs. The script does not automatically render or overwrite files.
+
+Tested in Blender 4.3 through Text Editor-style execution without `__file__`, Pillow or the companion gum module. All five generated textures match the delivered textures pixel-for-pixel; validation confirms 28 teeth, 266,880 triangles and no tooth intersections. The original scene is preserved.
+
+The earlier ZIP bundles are snapshots from before this standalone script was added. The modular command-line workflow below remains available for reproducing the historical previews.
+
 ## Deliverables
 
 - `dental_arch.blend` — editable scene, packed textures, 85 mm camera and three area lights.
