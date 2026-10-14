@@ -1,0 +1,404 @@
+{
+  "path": "/workspace/3D_assets/dental_asset/working.blend",
+  "teeth": [
+    "L_L_1_central",
+    "L_L_2_lateral",
+    "L_L_3_canine",
+    "L_L_4_premolar1",
+    "L_L_5_premolar2",
+    "L_L_6_molar1",
+    "L_L_7_molar2",
+    "L_R_1_central",
+    "L_R_2_lateral",
+    "L_R_3_canine",
+    "L_R_4_premolar1",
+    "L_R_5_premolar2",
+    "L_R_6_molar1",
+    "L_R_7_molar2",
+    "U_L_1_central",
+    "U_L_2_lateral",
+    "U_L_3_canine",
+    "U_L_4_premolar1",
+    "U_L_5_premolar2",
+    "U_L_6_molar1",
+    "U_L_7_molar2",
+    "U_R_1_central",
+    "U_R_2_lateral",
+    "U_R_3_canine",
+    "U_R_4_premolar1",
+    "U_R_5_premolar2",
+    "U_R_6_molar1",
+    "U_R_7_molar2"
+  ],
+  "counts": {
+    "upper": 14,
+    "lower": 14
+  },
+  "specialties": {
+    "U_R_1_central": "coral",
+    "U_R_6_molar1": "sky_blue",
+    "L_R_2_lateral": "mint",
+    "L_L_1_central": "amber"
+  },
+  "evaluated_triangles": 266880,
+  "meshes": [
+    {
+      "name": "L_Gum_and_Lavender_Base",
+      "vertices": 44546,
+      "triangles": 89088,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_L_1_central",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_L_2_lateral",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_L_3_canine",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_L_4_premolar1",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_L_5_premolar2",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_L_6_molar1",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_L_7_molar2",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_R_1_central",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_R_2_lateral",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_R_3_canine",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_R_4_premolar1",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_R_5_premolar2",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_R_6_molar1",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "L_R_7_molar2",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_Gum_and_Lavender_Base",
+      "vertices": 44546,
+      "triangles": 89088,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_L_1_central",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_L_2_lateral",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_L_3_canine",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_L_4_premolar1",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_L_5_premolar2",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_L_6_molar1",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_L_7_molar2",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_R_1_central",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_R_2_lateral",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_R_3_canine",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_R_4_premolar1",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_R_5_premolar2",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_R_6_molar1",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    },
+    {
+      "name": "U_R_7_molar2",
+      "vertices": 1586,
+      "triangles": 3168,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "loose_vertices": 0,
+      "zero_area_faces": 0,
+      "unapplied_modifiers": []
+    }
+  ],
+  "all_tooth_pairs_checked": 378,
+  "broadphase_pairs": 47,
+  "collision_count": 7,
+  "collisions": [
+    {
+      "a": "L_L_4_premolar1",
+      "b": "U_L_4_premolar1",
+      "intersecting_triangle_pairs": 6,
+      "containment": false
+    },
+    {
+      "a": "L_L_5_premolar2",
+      "b": "U_L_5_premolar2",
+      "intersecting_triangle_pairs": 32,
+      "containment": false
+    },
+    {
+      "a": "L_L_6_molar1",
+      "b": "U_L_6_molar1",
+      "intersecting_triangle_pairs": 48,
+      "containment": false
+    },
+    {
+      "a": "L_L_7_molar2",
+      "b": "U_L_7_molar2",
+      "intersecting_triangle_pairs": 42,
+      "containment": false
+    },
+    {
+      "a": "L_R_5_premolar2",
+      "b": "U_R_5_premolar2",
+      "intersecting_triangle_pairs": 20,
+      "containment": false
+    },
+    {
+      "a": "L_R_6_molar1",
+      "b": "U_R_6_molar1",
+      "intersecting_triangle_pairs": 46,
+      "containment": false
+    },
+    {
+      "a": "L_R_7_molar2",
+      "b": "U_R_7_molar2",
+      "intersecting_triangle_pairs": 54,
+      "containment": false
+    }
+  ],
+  "cameras": [
+    {
+      "name": "Reference camera 85mm",
+      "focal_length_mm": 85.0
+    }
+  ],
+  "active_camera": "Reference camera 85mm",
+  "render_dimensions": [
+    960,
+    540
+  ]
+}

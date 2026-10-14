@@ -1,0 +1,55 @@
+{
+  "camera_yaw": 37,
+  "camera_pitch": 5,
+  "camera_distance": 23.0,
+  "camera_target": [
+    0,
+    -0.9,
+    -0.15
+  ],
+  "horizontal_scale": 1.1,
+  "upper_base_height": 2.18,
+  "upper_gum_height": 1.8,
+  "lower_base_height": 2.05,
+  "lower_gum_height": 1.43,
+  "lower_heights": [
+    0.94,
+    0.95,
+    1.02,
+    0.91,
+    0.89,
+    0.83,
+    0.79
+  ],
+  "crown_exponent": 2.6,
+  "smooth_gum": true,
+  "enamel_roughness": 0.12,
+  "enamel_color": [
+    0.88,
+    0.79,
+    0.64
+  ],
+  "enamel_normal": 1.5,
+  "gum_normal": 0.55,
+  "gum_papilla_height": 0.42,
+  "gum_collar_ratio": 0.6,
+  "key_location": [
+    -6,
+    -12,
+    3.5
+  ],
+  "key_power": 1600,
+  "key_size": 2.0,
+  "rim_location": [
+    6,
+    -1,
+    3
+  ],
+  "rim_power": 1250,
+  "rim_size": 2.5,
+  "fill_power": 350,
+  "world_strength": 0.22,
+  "exposure": -0.8,
+  "view_transform": "Khronos PBR Neutral",
+  "view_look": "None"
+}

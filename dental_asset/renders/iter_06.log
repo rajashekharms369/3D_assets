@@ -1,0 +1,106 @@
+Fra:1 Mem:28.81M (Peak 28.81M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_R_1_central
+Fra:1 Mem:28.85M (Peak 28.85M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_R_2_lateral
+Fra:1 Mem:28.97M (Peak 28.97M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_R_3_canine
+Fra:1 Mem:29.30M (Peak 29.30M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_Gum_and_Lavender_Base
+Fra:1 Mem:35.39M (Peak 35.39M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_R_4_premolar1
+Fra:1 Mem:35.81M (Peak 35.81M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_R_5_premolar2
+Fra:1 Mem:36.11M (Peak 36.11M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_R_6_molar1
+Fra:1 Mem:36.62M (Peak 36.62M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_R_7_molar2
+Fra:1 Mem:37.54M (Peak 37.54M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_L_1_central
+Fra:1 Mem:41.32M (Peak 41.32M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_L_2_lateral
+Fra:1 Mem:41.36M (Peak 41.36M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_L_3_canine
+Fra:1 Mem:41.39M (Peak 41.39M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_L_4_premolar1
+Fra:1 Mem:47.73M (Peak 47.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_L_5_premolar2
+Fra:1 Mem:47.62M (Peak 47.73M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_L_7_molar2
+Fra:1 Mem:49.14M (Peak 49.14M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | U_Gum_and_Lavender_Base
+Fra:1 Mem:49.99M (Peak 50.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_R_1_central
+Fra:1 Mem:50.17M (Peak 50.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_R_2_lateral
+Fra:1 Mem:55.08M (Peak 55.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_R_3_canine
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_R_5_premolar2
+Fra:1 Mem:56.96M (Peak 56.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_R_6_molar1
+Fra:1 Mem:57.27M (Peak 57.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_R_7_molar2
+Fra:1 Mem:57.74M (Peak 57.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_L_1_central
+Fra:1 Mem:58.88M (Peak 58.88M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_L_2_lateral
+Fra:1 Mem:61.72M (Peak 61.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_L_3_canine
+Fra:1 Mem:66.26M (Peak 66.29M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_L_4_premolar1
+Fra:1 Mem:66.73M (Peak 66.73M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_L_5_premolar2
+Fra:1 Mem:67.19M (Peak 67.19M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_L_6_molar1
+Fra:1 Mem:67.65M (Peak 67.65M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | L_L_7_molar2
+Fra:1 Mem:69.13M (Peak 73.21M) | Time:00:00.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:67.64M (Peak 73.21M) | Time:00:00.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:67.64M (Peak 73.21M) | Time:00:00.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:67.64M (Peak 73.21M) | Time:00:00.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:67.64M (Peak 73.21M) | Time:00:00.07 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:67.73M (Peak 73.21M) | Time:00:00.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:67.73M (Peak 73.21M) | Time:00:00.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:67.73M (Peak 73.21M) | Time:00:00.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:67.73M (Peak 73.21M) | Time:00:00.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:67.73M (Peak 73.21M) | Time:00:00.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:67.73M (Peak 73.21M) | Time:00:00.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:67.73M (Peak 73.21M) | Time:00:00.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:67.73M (Peak 73.21M) | Time:00:00.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:67.73M (Peak 73.21M) | Time:00:00.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:67.73M (Peak 73.21M) | Time:00:00.07 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:71.81M (Peak 73.21M) | Time:00:00.08 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:91.67M (Peak 91.67M) | Time:00:00.09 | Mem:0.02M, Peak:0.02M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:19.87M, Peak:19.87M | Scene, ViewLayer | Updating Geometry BVH U_R_1_central_mesh 1/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:19.87M, Peak:19.87M | Scene, ViewLayer | Updating Geometry BVH U_R_2_lateral_mesh 2/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:19.87M, Peak:19.87M | Scene, ViewLayer | Updating Geometry BVH U_R_3_canine_mesh 3/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:19.87M, Peak:19.87M | Scene, ViewLayer | Updating Geometry BVH U_R_4_premolar1_mesh 4/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:22.88M, Peak:22.78M | Scene, ViewLayer | Updating Geometry BVH U_R_4_premolar1_mesh 4/30 | Building BVH 0%
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:22.88M, Peak:22.88M | Scene, ViewLayer | Updating Geometry BVH U_R_4_premolar1_mesh 4/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:23.36M, Peak:23.55M | Scene, ViewLayer | Updating Geometry BVH U_R_5_premolar2_mesh 5/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:23.28M, Peak:23.55M | Scene, ViewLayer | Updating Geometry BVH U_R_6_molar1_mesh 6/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:23.91M, Peak:24.00M | Scene, ViewLayer | Updating Geometry BVH U_R_7_molar2_mesh 7/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:23.99M, Peak:24.08M | Scene, ViewLayer | Updating Geometry BVH U_L_1_central_mesh 8/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:24.01M, Peak:24.10M | Scene, ViewLayer | Updating Geometry BVH U_L_2_lateral_mesh 9/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:24.46M, Peak:24.56M | Scene, ViewLayer | Updating Geometry BVH U_L_3_canine_mesh 10/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:24.59M, Peak:24.64M | Scene, ViewLayer | Updating Geometry BVH U_L_4_premolar1_mesh 11/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.09 | Mem:24.61M, Peak:24.70M | Scene, ViewLayer | Updating Geometry BVH U_L_5_premolar2_mesh 12/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:25.15M, Peak:25.24M | Scene, ViewLayer | Updating Geometry BVH U_L_6_molar1_mesh 13/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:25.21M, Peak:25.30M | Scene, ViewLayer | Updating Geometry BVH U_L_7_molar2_mesh 14/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:25.22M, Peak:25.30M | Scene, ViewLayer | Updating Geometry BVH U_continuous_socketed_gum_mesh 15/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:28.15M, Peak:28.33M | Scene, ViewLayer | Updating Geometry BVH L_R_1_central_mesh 16/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:28.56M, Peak:28.56M | Scene, ViewLayer | Updating Geometry BVH L_R_2_lateral_mesh 17/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:28.88M, Peak:28.97M | Scene, ViewLayer | Updating Geometry BVH L_R_3_canine_mesh 18/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:28.89M, Peak:28.97M | Scene, ViewLayer | Updating Geometry BVH L_R_4_premolar1_mesh 19/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:28.94M, Peak:29.04M | Scene, ViewLayer | Updating Geometry BVH L_R_5_premolar2_mesh 20/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:29.53M, Peak:29.72M | Scene, ViewLayer | Updating Geometry BVH L_R_6_molar1_mesh 21/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:29.53M, Peak:29.72M | Scene, ViewLayer | Updating Geometry BVH L_R_7_molar2_mesh 22/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:30.01M, Peak:30.09M | Scene, ViewLayer | Updating Geometry BVH L_L_1_central_mesh 23/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:30.03M, Peak:30.13M | Scene, ViewLayer | Updating Geometry BVH L_L_2_lateral_mesh 24/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:30.65M, Peak:30.74M | Scene, ViewLayer | Updating Geometry BVH L_L_3_canine_mesh 25/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:31.05M, Peak:31.05M | Scene, ViewLayer | Updating Geometry BVH L_L_4_premolar1_mesh 26/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:31.37M, Peak:31.47M | Scene, ViewLayer | Updating Geometry BVH L_L_5_premolar2_mesh 27/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:32.01M, Peak:32.10M | Scene, ViewLayer | Updating Geometry BVH L_L_6_molar1_mesh 28/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.10 | Mem:32.46M, Peak:32.56M | Scene, ViewLayer | Updating Geometry BVH L_L_7_molar2_mesh 29/30 | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.12 | Mem:36.93M, Peak:39.65M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.12 | Mem:36.93M, Peak:39.65M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.12 | Mem:36.94M, Peak:39.65M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:91.66M (Peak 91.67M) | Time:00:00.12 | Mem:36.94M, Peak:39.65M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:100.83M (Peak 100.83M) | Time:00:00.12 | Mem:36.94M, Peak:39.65M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:100.83M (Peak 100.83M) | Time:00:00.12 | Mem:46.11M, Peak:46.11M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:100.83M (Peak 100.83M) | Time:00:00.12 | Mem:46.11M, Peak:46.11M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:100.83M (Peak 100.83M) | Time:00:00.12 | Mem:46.11M, Peak:46.11M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:100.83M (Peak 100.83M) | Time:00:00.12 | Mem:46.11M, Peak:46.11M | Scene, ViewLayer | Updating Images | Loading gum_normal.png
+Fra:1 Mem:101.83M (Peak 101.83M) | Time:00:00.12 | Mem:46.11M, Peak:46.11M | Scene, ViewLayer | Updating Images | Loading enamel_normal.png
+Fra:1 Mem:102.83M (Peak 102.83M) | Time:00:00.12 | Mem:46.11M, Peak:46.11M | Scene, ViewLayer | Updating Images | Loading gingiva_roughness.png
+Fra:1 Mem:105.09M (Peak 105.09M) | Time:00:00.13 | Mem:50.36M, Peak:50.36M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:105.09M (Peak 105.09M) | Time:00:00.13 | Mem:50.36M, Peak:50.36M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:105.09M (Peak 105.09M) | Time:00:00.13 | Mem:50.44M, Peak:50.44M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:105.09M (Peak 105.09M) | Time:00:00.13 | Mem:50.44M, Peak:50.44M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:105.09M (Peak 105.09M) | Time:00:00.13 | Mem:50.44M, Peak:50.44M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:105.09M (Peak 105.09M) | Time:00:00.13 | Mem:50.44M, Peak:50.44M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:105.10M (Peak 105.10M) | Time:00:00.13 | Mem:50.36M, Peak:50.44M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:105.10M (Peak 105.10M) | Time:00:00.13 | Mem:50.44M, Peak:50.44M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:105.10M (Peak 105.10M) | Time:00:00.13 | Mem:50.44M, Peak:50.44M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:105.10M (Peak 105.10M) | Time:00:00.13 | Mem:50.44M, Peak:50.44M | Scene, ViewLayer | Loading denoising kernels (may take a few minutes the first time)
+Fra:1 Mem:105.10M (Peak 105.10M) | Time:00:00.13 | Mem:50.44M, Peak:50.44M | Scene, ViewLayer | Sample 0/24
+Fra:1 Mem:142.70M (Peak 142.70M) | Time:00:01.09 | Remaining:00:22.01 | Mem:88.03M, Peak:88.03M | Scene, ViewLayer | Sample 1/24
+Fra:1 Mem:158.52M (Peak 182.26M) | Time:00:25.55 | Mem:88.03M, Peak:88.03M | Scene, ViewLayer | Sample 24/24
+Fra:1 Mem:158.52M (Peak 182.26M) | Time:00:25.55 | Mem:88.03M, Peak:88.03M | Scene, ViewLayer | Finished
+Saved: '/workspace/3D_assets/dental_asset/renders/iter_06.png'
+Time: 00:25.71 (Saving: 00:00.15)
+
+Info: Saved "working.blend"
+RENDER_COMPLETE /workspace/3D_assets/dental_asset/renders/iter_06.png

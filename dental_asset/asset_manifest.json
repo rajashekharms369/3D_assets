@@ -1,0 +1,83 @@
+{
+  "asset": "Stylised 28-tooth dental arch",
+  "reference_match": "partial",
+  "remaining_visual_differences": [
+    "More regular crown and gingiva contours than the reference",
+    "Enamel appears more opaque, with simpler pearly reflections",
+    "Less sculpted lavender jaw-base silhouette"
+  ],
+  "files": {
+    "blend": "dental_arch.blend",
+    "glb": "dental_arch.glb",
+    "render": "dental_arch.png"
+  },
+  "triangle_count": 266880,
+  "mesh_count": 30,
+  "teeth": [
+    "L_L_1_central",
+    "L_L_2_lateral",
+    "L_L_3_canine",
+    "L_L_4_premolar1",
+    "L_L_5_premolar2",
+    "L_L_6_molar1",
+    "L_L_7_molar2",
+    "L_R_1_central",
+    "L_R_2_lateral",
+    "L_R_3_canine",
+    "L_R_4_premolar1",
+    "L_R_5_premolar2",
+    "L_R_6_molar1",
+    "L_R_7_molar2",
+    "U_L_1_central",
+    "U_L_2_lateral",
+    "U_L_3_canine",
+    "U_L_4_premolar1",
+    "U_L_5_premolar2",
+    "U_L_6_molar1",
+    "U_L_7_molar2",
+    "U_R_1_central",
+    "U_R_2_lateral",
+    "U_R_3_canine",
+    "U_R_4_premolar1",
+    "U_R_5_premolar2",
+    "U_R_6_molar1",
+    "U_R_7_molar2"
+  ],
+  "specialties": {
+    "U_R_1_central": "coral",
+    "U_R_6_molar1": "sky_blue",
+    "L_R_2_lateral": "mint",
+    "L_L_1_central": "amber"
+  },
+  "camera": {
+    "focal_length_mm": 85,
+    "yaw_degrees": 32,
+    "pitch_degrees": 5.8,
+    "distance_scene_units": 22.5,
+    "target_scene_units": [
+      0,
+      -0.9,
+      -0.19
+    ]
+  },
+  "render": {
+    "width": 1920,
+    "height": 1080,
+    "cycles_samples": 128,
+    "transparent": true,
+    "adaptive_sampling": true,
+    "adaptive_threshold": 0.015,
+    "minimum_samples": 24
+  },
+  "glb_material_extensions": [
+    "KHR_materials_clearcoat",
+    "KHR_materials_transmission",
+    "KHR_materials_specular",
+    "KHR_materials_ior",
+    "KHR_texture_transform"
+  ],
+  "validation_file": "validation.json",
+  "iteration_count": 15,
+  "selected_iteration": 15,
+  "glb_roundtrip_validation_file": "glb_import_check.json"
+}

@@ -1,0 +1,8 @@
+{
+  "camera_yaw": 33,
+  "camera_pitch": 5,
+  "camera_distance": 23.5,
+  "camera_target": [0, -0.9, 0],
+  "enamel_roughness": 0.19,
+  "exposure": 0.25
+}

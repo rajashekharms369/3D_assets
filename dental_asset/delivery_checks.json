@@ -1,0 +1,232 @@
+{
+  "passed": true,
+  "selected_iteration": 15,
+  "render_checks": [
+    {
+      "file": "dental_arch.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        96,
+        32,
+        1727,
+        1047
+      ]
+    },
+    {
+      "file": "renders/iter_01.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        100,
+        19,
+        798,
+        540
+      ]
+    },
+    {
+      "file": "renders/iter_02.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        107,
+        19,
+        794,
+        539
+      ]
+    },
+    {
+      "file": "renders/iter_03.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        30,
+        38,
+        872,
+        540
+      ]
+    },
+    {
+      "file": "renders/iter_04.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        56,
+        24,
+        852,
+        520
+      ]
+    },
+    {
+      "file": "renders/iter_05.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        56,
+        24,
+        852,
+        520
+      ]
+    },
+    {
+      "file": "renders/iter_06.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        56,
+        24,
+        852,
+        526
+      ]
+    },
+    {
+      "file": "renders/iter_07.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        71,
+        18,
+        838,
+        540
+      ]
+    },
+    {
+      "file": "renders/iter_08.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        64,
+        32,
+        850,
+        531
+      ]
+    },
+    {
+      "file": "renders/iter_09.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        70,
+        32,
+        850,
+        532
+      ]
+    },
+    {
+      "file": "renders/iter_10.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        67,
+        33,
+        846,
+        529
+      ]
+    },
+    {
+      "file": "renders/iter_11.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        66,
+        33,
+        846,
+        529
+      ]
+    },
+    {
+      "file": "renders/iter_12.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        66,
+        33,
+        847,
+        529
+      ]
+    },
+    {
+      "file": "renders/iter_13.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        66,
+        33,
+        847,
+        519
+      ]
+    },
+    {
+      "file": "renders/iter_14.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        47,
+        4,
+        864,
+        511
+      ]
+    },
+    {
+      "file": "renders/iter_15.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        47,
+        15,
+        864,
+        524
+      ]
+    }
+  ],
+  "geometry_validation": "validation.json",
+  "glb_roundtrip_validation": "glb_import_check.json"
+}

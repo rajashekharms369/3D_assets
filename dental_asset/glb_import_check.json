@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "mesh_objects": 30,
+  "tooth_objects": 28,
+  "specialties": {
+    "U_R_1_central": "coral",
+    "U_R_6_molar1": "sky_blue",
+    "L_R_2_lateral": "mint",
+    "L_L_1_central": "amber"
+  },
+  "triangles": 266880,
+  "decoded_image_count": 5
+}
