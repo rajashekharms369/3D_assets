@@ -1,8 +1,9 @@
 """Refine the supplied GLB. Run with Blender Python: refine.py [before|after]."""
 import bpy, math, sys, json, hashlib
 from pathlib import Path
-from mathutils import Vector
+from mathutils import Vector, Matrix
 ROOT=Path(__file__).resolve().parent
+CONFIG = {'horizontal_scale': 1.12}
 MODE=sys.argv[-1] if sys.argv[-1] in ('before','after') else 'after'
 bpy.ops.wm.read_factory_settings(use_empty=True)
 bpy.ops.import_scene.gltf(filepath=str(ROOT/'oral-cavity-main.glb'))
@@ -47,6 +48,12 @@ if MODE=='after':
   noise=nodes.new('ShaderNodeTexNoise');noise.inputs['Scale'].default_value=145;noise.inputs['Detail'].default_value=2
   bump=nodes.new('ShaderNodeBump');bump.inputs['Strength'].default_value=.12;bump.inputs['Distance'].default_value=.008 if m==gum else .003
   links.new(noise.outputs['Fac'],bump.inputs['Height']);links.new(bump.outputs['Normal'],nodes.get('Principled BSDF').inputs['Normal'])
+# Apply one common lateral stretch so tooth contacts and gum alignment stay together.
+if MODE=='after':
+ stretch=Matrix.Diagonal((CONFIG['horizontal_scale'],1.0,1.0,1.0))
+ for o in meshes:
+  o.data.transform(o.matrix_world.inverted() @ stretch @ o.matrix_world)
+  o.data.update()
 def aim(o,pt):o.rotation_euler=(Vector(pt)-o.location).to_track_quat('-Z','Y').to_euler()
 target=Vector((0,-1.9,.20))
 bpy.ops.object.camera_add(location=target+Vector((-10.7,-19.0,2.6))*.90)
@@ -69,5 +76,5 @@ if MODE=='after':
  s.cycles.samples=24;s.render.resolution_x=960;s.render.resolution_y=720
  triangles=0
  for o in meshes:o.data.calc_loop_triangles();triangles+=len(o.data.loop_triangles)
- (ROOT/'validation.json').write_text(json.dumps({'tooth_count':len(teeth),'mesh_count':len(meshes),'triangles':triangles,'tooth_vertices_unchanged':all(before[o.name]==digest(o) for o in teeth),'accents':accents,'removed_unrelated_default_cube':True,'scope':'Aesthetic refinement; prior hidden socket intersections were not repaired.'},indent=2))
+ (ROOT/'validation.json').write_text(json.dumps({'tooth_count':len(teeth),'mesh_count':len(meshes),'triangles':triangles,'horizontal_scale':CONFIG['horizontal_scale'],'tooth_change':'Common lateral stretch; no independent tooth reshaping or repositioning','accents':accents,'removed_unrelated_default_cube':True,'scope':'Aesthetic refinement; prior hidden socket intersections were not repaired.'},indent=2))
 bpy.ops.render.render(write_still=True)

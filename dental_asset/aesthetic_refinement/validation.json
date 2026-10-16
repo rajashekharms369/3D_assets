@@ -2,7 +2,8 @@
   "tooth_count": 28,
   "mesh_count": 32,
   "triangles": 287984,
-  "tooth_vertices_unchanged": true,
+  "horizontal_scale": 1.12,
+  "tooth_change": "Common lateral stretch; no independent tooth reshaping or repositioning",
   "accents": {
     "U_R_1_central": [
       "coral",
@@ -39,7 +40,22 @@
   },
   "removed_unrelated_default_cube": true,
   "scope": "Aesthetic refinement; prior hidden socket intersections were not repaired.",
-  "glb_material_colors_verified": true,
-  "glb_specialty_properties": 4,
-  "glb_roundtrip_tooth_world_coordinates_max_error": 0.0
+  "before_dimensions_xyz": [
+    7.398650407791138,
+    5.168854922056198,
+    4.2404844760894775
+  ],
+  "after_dimensions_xyz": [
+    8.28648853302002,
+    5.168854922056198,
+    4.2404844760894775
+  ],
+  "dimension_ratios_xyz": [
+    1.1200000103118732,
+    1.0,
+    1.0
+  ],
+  "max_export_coordinate_error": 3.4332275422599423e-07,
+  "mesh_names_preserved": true,
+  "glb_specialty_properties": 4
 }
