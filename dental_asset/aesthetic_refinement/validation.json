@@ -1,0 +1,45 @@
+{
+  "tooth_count": 28,
+  "mesh_count": 32,
+  "triangles": 287984,
+  "tooth_vertices_unchanged": true,
+  "accents": {
+    "U_R_1_central": [
+      "coral",
+      [
+        0.95,
+        0.66,
+        0.71
+      ]
+    ],
+    "U_R_6_molar1": [
+      "sky_blue",
+      [
+        0.54,
+        0.79,
+        0.9
+      ]
+    ],
+    "L_R_2_lateral": [
+      "mint",
+      [
+        0.62,
+        0.84,
+        0.73
+      ]
+    ],
+    "L_L_1_central": [
+      "amber",
+      [
+        0.96,
+        0.78,
+        0.43
+      ]
+    ]
+  },
+  "removed_unrelated_default_cube": true,
+  "scope": "Aesthetic refinement; prior hidden socket intersections were not repaired.",
+  "glb_material_colors_verified": true,
+  "glb_specialty_properties": 4,
+  "glb_roundtrip_tooth_world_coordinates_max_error": 0.0
+}
