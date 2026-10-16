@@ -2,18 +2,18 @@
 
 Based directly on the uploaded `oral-cavity-main.glb`.
 
-Changes: warm pearly enamel, softer rose gums, satin lavender bases, four restored pastel specialty teeth, less tall rootward tissue, smooth shading, and an 85 mm studio presentation. Removed the unrelated default Cube. All 28 named teeth are retained. The current version applies a shared 12% left-to-right stretch to the teeth, gums and bases; height and depth are unchanged. Tooth contacts remain aligned because every mesh receives the same transformation. Tissue beyond the cervical anchor is compressed vertically by 36% before the common lateral stretch. Upper/lower gums and bases remain separate named objects.
+Changes: warm pearly enamel, softer rose gums, satin lavender bases, uniform pearly enamel on all 28 teeth, less tall rootward tissue, smooth shading, and an 85 mm studio presentation. Removed the unrelated default Cube. All 28 named teeth are retained. The current version applies a shared 12% left-to-right stretch to the teeth, gums and bases; height and depth are unchanged. Tooth contacts remain aligned because every mesh receives the same transformation. Tissue beyond the cervical anchor is compressed vertically by 36% before the common lateral stretch. Upper/lower gums and bases remain separate named objects.
 
 ## Files
 
-- `oral-cavity-aesthetic.glb`: portable PBR model, 32 meshes and 287,984 triangles. All seven materials have explicit exported colours. Four accent teeth carry specialty properties.
+- `oral-cavity-aesthetic.glb`: portable PBR model, 32 meshes and 287,984 triangles. Three materials have explicit exported colours: enamel, pink gum and lavender base. All 28 teeth share the enamel material; no specialty colour tags remain.
 - `oral-cavity-aesthetic.blend`: editable scene with three lights and camera.
 - `oral-cavity-aesthetic.png`: 1600 × 1200 transparent Cycles render, 64 samples.
 - `width_before.png`: aesthetic preview before the 12% width adjustment.
 - `before.png`: uploaded model under the initial studio lights, with the unrelated Cube removed for inspection.
 - `iter_01.png`, `after.png`: first aesthetic preview and latest widened preview.
 - `refine.py`: reproducible refinement script. Put the supplied original GLB beside it and run with Blender's Python interpreter, or Blender background mode: `blender --background --python refine.py -- after`. It writes output files to its own directory. It is an editing script for the attached GLB, not a standalone geometry generator.
-- `validation.json`: mesh counts, specialty properties, and round-trip GLB checks confirming a width ratio of 1.12 with unchanged height/depth.
+- `validation.json`: mesh counts and exported material checks confirming 28 enamel teeth and no specialty colour tags.
 
 ## Review notes
 
@@ -24,3 +24,7 @@ This is an aesthetic edit, not a new anatomical or collision correction. Existin
 ## Width adjustment
 
 `CONFIG["horizontal_scale"] = 1.12` controls the shared lateral stretch. It is applied once from the original input, so rerunning does not accumulate widening. The mesh count remains 32 and the triangle count remains 287,984. Camera, lighting and materials are unchanged from the previous aesthetic version.
+
+## Uniform enamel update
+
+Removed the four pastel tooth materials and their specialty tags. All 28 teeth now share the same warm pearlescent enamel. Geometry, 12% width adjustment, gum/base colours, lighting and camera are unchanged. Historical previews (`iter_01.png`, `width_before.png`) retain the earlier accent colours; `after.png` and `oral-cavity-aesthetic.png` show the current uniform enamel.

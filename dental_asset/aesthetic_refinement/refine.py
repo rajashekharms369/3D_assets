@@ -24,7 +24,7 @@ if MODE=='after':
  enamel=mat('Warm pearlescent enamel',(.96,.935,.88),.19,.45,.035,.10)
  gum=mat('Soft rose gingiva',(.80,.39,.46),.29,.22,0,.14)
  base=mat('Satin lavender porcelain',(.67,.62,.83),.34,.25,0,.035)
- accents={'U_R_1_central':('coral',(.95,.66,.71)), 'U_R_6_molar1':('sky_blue',(.54,.79,.9)), 'L_R_2_lateral':('mint',(.62,.84,.73)), 'L_L_1_central':('amber',(.96,.78,.43))}
+ accents={}
  for o in meshes:
   if o.name.endswith('_gum') or o.name.endswith('_base'):
    # Compact only rootward tissue; collars and all crown coordinates stay fixed.
@@ -38,8 +38,7 @@ if MODE=='after':
   else:
    material=enamel
    o['tooth']=True
-   if o.name in accents:
-    label,c=accents[o.name];material=mat('Pastel '+label,c,.24,.42,.13,.08);o['specialty']=label
+   if 'specialty' in o: del o['specialty']
   o.data.materials.clear();o.data.materials.append(material)
   for f in o.data.polygons:f.use_smooth=True
  # Low-amplitude procedural microtexture in Blender. GLB keeps portable PBR values.

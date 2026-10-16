@@ -4,58 +4,10 @@
   "triangles": 287984,
   "horizontal_scale": 1.12,
   "tooth_change": "Common lateral stretch; no independent tooth reshaping or repositioning",
-  "accents": {
-    "U_R_1_central": [
-      "coral",
-      [
-        0.95,
-        0.66,
-        0.71
-      ]
-    ],
-    "U_R_6_molar1": [
-      "sky_blue",
-      [
-        0.54,
-        0.79,
-        0.9
-      ]
-    ],
-    "L_R_2_lateral": [
-      "mint",
-      [
-        0.62,
-        0.84,
-        0.73
-      ]
-    ],
-    "L_L_1_central": [
-      "amber",
-      [
-        0.96,
-        0.78,
-        0.43
-      ]
-    ]
-  },
+  "accents": {},
   "removed_unrelated_default_cube": true,
   "scope": "Aesthetic refinement; prior hidden socket intersections were not repaired.",
-  "before_dimensions_xyz": [
-    7.398650407791138,
-    5.168854922056198,
-    4.2404844760894775
-  ],
-  "after_dimensions_xyz": [
-    8.28648853302002,
-    5.168854922056198,
-    4.2404844760894775
-  ],
-  "dimension_ratios_xyz": [
-    1.1200000103118732,
-    1.0,
-    1.0
-  ],
-  "max_export_coordinate_error": 3.4332275422599423e-07,
-  "mesh_names_preserved": true,
-  "glb_specialty_properties": 4
+  "uniform_enamel_teeth": 28,
+  "glb_specialty_properties": 0,
+  "glb_material_count": 3
 }
